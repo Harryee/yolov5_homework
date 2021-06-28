@@ -4,9 +4,7 @@ https://github.com/Harryee/yolov5_homework
 
 A tutorial about how to use yolov5(https://github.com/ultralytics/yolov5) to train your own dataset with pre-trained model.
 
-# Prepare
-
-We need:
+# Preparation
 
 - Google Drive account
 - Colab account
