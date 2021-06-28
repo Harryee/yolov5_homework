@@ -11,6 +11,7 @@ We need:
 - Google Drive account
 - Colab account
 - VoTT
+- wandb account(optional)
 
 # How to use it?
 
