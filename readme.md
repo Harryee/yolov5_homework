@@ -64,7 +64,7 @@ Click [![Open In Colab](readme.assets/colab-badge.svg)](https://colab.research.g
 ![image-20210628095810246](readme.assets/image-20210628095810246.png)
 
 
-# Done!
+# Done
 
 After all, you can get your own model and some evaluation result like mAP and so on.
 
