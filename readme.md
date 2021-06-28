@@ -59,7 +59,12 @@ names: [ 'gun', 'sword' ]
 
 ## 2. Train on colab
 
-Copy https://github.com/Harryee/yolov5_homework/blob/main/yolov5_homework.ipynb to your Google Drive, and open it on colab, you can run it right away by the dataset I made, and I already write some note on he notebook. If you want to train on your own dataset, just try to upload your own dataset and form it like the format I mentioned and change a little code.
+Click [![Open In Colab](readme.assets/colab-badge.svg)](https://colab.research.google.com/drive/1As7FOJi6hf6aDDK-K2rTns5aXeF-FQzK?usp=sharing) to open yolov5_homework.ipynb on colab. You can run it right away by the dataset I made, and I already write some note in the notebook. If you want to train on your own dataset, just try to upload your own dataset and form it like the format I mentioned and change a little code about the dataset's path.
+
+![image-20210628095810246](readme.assets/image-20210628095810246.png)
+
+
+# Done!
 
 After all, you can get your own model and some evaluation result like mAP and so on.
 
