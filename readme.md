@@ -38,9 +38,12 @@ class_type center_x center_y width height
 ...
 ```
 
-If this image doesn't have target, you don't have to make a file for it, and center_x and center_y here are normalized.
+**Tips:**
 
-Then we have to write a yaml file to make sure our project knows where the dataset is and some basic information about the dataset, like this:
+- If this image doesn't have target, you don't have to make a file for it.
+- The center_x and center_y here are normalized.
+
+After we organize our file, we have to write a yaml file to make sure our program knows where the dataset is and some basic information about the dataset, like this:
 
 ```yaml
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
