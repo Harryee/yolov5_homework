@@ -40,7 +40,7 @@ class_type center_x center_y width height
 
 **Tips:**
 
-- If this image doesn't have target, you don't have to make a file for it.
+- You don't have to make a file for a image without label.
 - The center_x and center_y here are normalized.
 
 After we organize our file, we have to write a yaml file to make sure our program knows where the dataset is and some basic information about the dataset, like this:
